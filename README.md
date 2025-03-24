@@ -39,7 +39,7 @@ A simple web-based weather application that fetches real-time weather data using
 3. The weather details are displayed on the screen.
 
 ## Live Demo
-(Provide a link to the deployed version if available)
+https://thriving-duckanoo-c780b9.netlify.app/
 
 ## License
 This project is licensed under the MIT License.
